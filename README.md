@@ -1,6 +1,6 @@
 ### Hi there, I'm Sajiv!
-- 🔭 I’m currently working on learning Java and starting my own projects
-- 🌱 I’m currently learning Java 
-- 📫 How to reach me: supremefantasticaldragonlord@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like frogs
+-  I’m currently learning Java and working on personal projects.
+-  I’m interested in AI and Machine Learning!
+-  How to reach me: sajivkkumar@gmail.com
+-  Pronouns: he/him
+
