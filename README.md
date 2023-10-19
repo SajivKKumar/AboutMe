@@ -1,6 +1,6 @@
 ### Hi there, I'm Sajiv!
--  I’m currently learning Java and working on personal projects.
--  I’m interested in AI and Machine Learning!
+-  I’m a Computer Science major currently learning Java and working on personal projects.
+-  I’m interested in SWE, AI, Machine Learning, and Startups!
 -  How to reach me: sajivkkumar@gmail.com
 -  Pronouns: he/him
 
